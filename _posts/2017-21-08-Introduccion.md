@@ -11,7 +11,10 @@ image-sm: https://static.pexels.com/photos/450035/pexels-photo-450035.jpeg
 Introducción 
 =============
 
+<br>
+
 ## ¡¡Binevenidos al blog de TICs!!
+
 Aqui encontraras los resumenes de la clase con recursos adicionales como:
 
 * Vídeos
@@ -34,7 +37,7 @@ La siguiente presentación electrónica contiene la presentación del profesor y
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""                   width="550" height="400" src="marcoc76.github.io/presentaciones/PresentandoCurso/presentacion.html"></iframe>
+                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""                   width="550" height="400" src="https://marcoc76.github.io/presentaciones/PresentandoCurso/presentacion.html"></iframe>
 </div>
 
 
