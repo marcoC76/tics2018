@@ -39,7 +39,8 @@ La siguiente presentación electrónica contiene la presentación del profesor y
                   width: 100%;
                   height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""                   width="550" height="400" src="https://marcoc76.github.io/presentaciones/PresentandoCurso/presentacion.html"></iframe>
 </div>
-
-<a target="_blank" href="https://marcoc76.github.io/presentaciones/PresentandoCurso/presentacion.html">Pantalla completa</a>
-
+<brb>
+<center>
+<a style="colo:blue;" target="_blank" href="https://marcoc76.github.io/presentaciones/PresentandoCurso/presentacion.html">Pantalla completa</a>
+</center>
 
