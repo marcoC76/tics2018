@@ -13,7 +13,7 @@ Introducción
 
 <br>
 
-## ¡¡Binevenidos al blog de TICs!!
+## ¡¡Bienvenidos al blog de TICs!!
 
 Aqui encontraras los resumenes de la clase con recursos adicionales como:
 
