@@ -5,8 +5,8 @@ date: 2017-09-11
 categories:
   - Resumen
 description: Computadoras SW y HW
-image: https://media.giphy.com/media/sl89XnuWyi2je/giphy.gif
-image-sm: https://media.giphy.com/media/sl89XnuWyi2je/giphy.gif
+image: http://www.compuplace.com.mx/images/p.jpg
+image-sm: http://www.compuplace.com.mx/images/p.jpg
 ---
 
 Computadoras: SW y HW
@@ -210,7 +210,6 @@ Es un “falso lenguaje” (pseudo = falso) mezcla de instrucciones de programac
 <img src="http://cdn.clasipar.com/pictures/photos/003/635/954/vga_pseudo1.gif">
 
 
-
 ##### Diagrama de ﬂujo.
 
 Es la representación gráfica de un algoritmo. Para su construcción se usan símbolos estandarizados en el que cada uno tiene un significado. Los pasos del algoritmo se escriben dentro del símbolo correspondiente y se unen por fechas, denominadas “líneas de lujo”, que indican el orden en que los pasos deben de llevarse a cabo.
@@ -218,8 +217,6 @@ Es la representación gráfica de un algoritmo. Para su construcción se usan s�
 Algunos algoritmos son más rápidos que otros, y muchos de los algoritmos que se han descubierto han hecho posible el resolver problemas que antes llevaban un tiempo inaceptable —por ejemplo encontrar millones de dígitos de pi, o todas las páginas de la Red (Word-Wide Web) que contienen tu nombre, o la mejor manera de acomodar paquetes en un contenedor o averiguar si números muy grandes (100 dígitos) son primos. 
 
 <img src="http://www.areatecnologia.com/informatica/imagenes/flujo-cocinar-huevo.jpg">
-
-<img src="http://3.bp.blogspot.com/_yacvHe_AoF0/S5kCaSAqYjI/AAAAAAAAA-g/_s9B7oFvqhA/s320/Algoritmo+c%C3%B3mico.gif">
 
 ## Partes de una computadora HW
 
