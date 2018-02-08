@@ -1,6 +1,6 @@
 # Site settings
 email: marco.perez.cetis76@gmail.com
-baseurl: "/"
+baseurl: "/tics2018/"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
