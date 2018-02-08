@@ -1,6 +1,6 @@
 # Site settings
 email: marco.perez.cetis76@gmail.com
-baseurl: "marcoc76.github.io/tics2018/"
+baseurl: "/tics2018"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: TICs - C76
 description: Blog de apoyo para la clase de TICS impartida en el cetys 76
-url: "https://marcoc76.github.io/tics2018/"
+url: "https://marcoc76.github.io/tics2018"
 twitter_username: 
 default_img: https://unsplash.it/200/300?image=1074
 
